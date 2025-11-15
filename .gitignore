@@ -1,0 +1,17 @@
+# virtual enviroment
+myenv/
+.env
+*.env
+
+# python temp files and dirs
+__pycache__/
+.pytest_cache/
+
+# reports
+*.docx
+*.pdf
+
+# other
+mtest.py
+*.deb
+*.log
